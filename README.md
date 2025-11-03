@@ -1,3 +1,13 @@
+# Okame-no-Kimochi
+
+![Excel VBA](https://img.shields.io/badge/-Excel%20VBA-217346?logo=microsoft-excel&logoColor=white)
+![Data Management](https://img.shields.io/badge/-Data%20Management-green)
+![PetCare](https://img.shields.io/badge/-Pet%20Care-yellow)
+![Portfolio](https://img.shields.io/badge/-Portfolio-black)
+
+オカメインコの給餌・体重・健康状態を自動記録・管理するExcelマクロツール。
+
+
 # 🦜 オカメの気持ち — Okame no Kimochi
 
 ## 概要
